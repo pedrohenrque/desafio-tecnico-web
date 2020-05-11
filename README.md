@@ -20,9 +20,9 @@
 <li>Funcionar na última versão dos principais browsers (Chrome, Firefox, Safari e Edge)</li></ul>
 </p>
 
-## Technologies
+## Tecnologias
 
-This project was developed with the following technologies:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - [styled-components]
 - [ReactJS]
@@ -30,21 +30,21 @@ This project was developed with the following technologies:
 - [Yarn]
 - [VS Code][vc]
 
-## How To Use
+## Como usar
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v12.13][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
+Para utilizar esta aplicação, você precisa do [Git](https://git-scm.com), [Node.js v12.13][nodejs] ou superior + [Yarn v1.13][yarn] ou superior instalado no seu computador. Na sua linha de comando:
 
 ```bash
-# Clone this repository
-$ git clone git@github.com:pedrohenrque/desafio-tecnico-web.git
+# Clone este repositório
+$ git clone https://github.com/pedrohenrque/desafio-tecnico-web.git
 
-# Go into the repository
+# Entre no repositório
 $ cd desafio-tecnico-web
 
-# Install dependencies
-$ yarn install
+# Instale as dependências
+$ yarn ou yarn install
 
-# Run nodeJS
+# Rode a aplicação
 $ yarn start
 
 
